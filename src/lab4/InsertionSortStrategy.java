@@ -26,8 +26,3 @@ public class InsertionSortStrategy implements SortStrategy {
         }
     }
 }
-
-
-// 3 5 6 2 7 4
-// 3 5 5 6 7 4
-// 2 3 5 6 7 4
